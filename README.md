@@ -43,7 +43,7 @@ Cancelation could be done via <i>DELETE</i> web method by following url:
 
 <hr/>
 
-<h3>Chech awailability</h3>
+<h3>Check availability</h3>
 Checking of available dates could be done via <i>GET</i> web method by following url:
 <i>http://localhost:port/booking/available/{date}</i>
 Response will be a list of available dates since <i>date</i> (input parameter) + 30 days since current (today's) date.
