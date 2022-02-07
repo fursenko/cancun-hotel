@@ -3,9 +3,7 @@
 <h3>API is developed for reservations management of one room in Cancun Hotel.</h3>
 <h3>API provides functionality for creation, update and canceling reservations, also there is a method for checking room availability.</h3>
 <h3>Please consider that all data will be stored in memory and it will be lost after service shut down.</h3>
-<h3>There is a swagger page for comfortable api testing.</h3>
-<br/>
-<h3>http://localhost:port/swagger/index.html</h3>
+<h3>There is a swagger page for comfortable api testing. <i>http://localhost:port/swagger/index.html</i></h3>
 
 <hr/>
 <h3>Create booking</h3>
